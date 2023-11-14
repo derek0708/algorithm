@@ -1,2 +1,3 @@
-# training_1
-saffy 실습1
+# algorithm
+
+ - saffy A형 대비 algorithm study repo
